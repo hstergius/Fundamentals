@@ -8,7 +8,7 @@ import codeskulptor
 import time
 import math
 
-TIME_ZONE = 6
+TIME_ZONE = 8
 
 def to_rad(val, maximum):
     return math.radians(val/maximum*360+90)
